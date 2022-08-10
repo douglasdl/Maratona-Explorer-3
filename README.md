@@ -1,7 +1,8 @@
 # Maratona-Explorer-3
 Maratona Explorer 3.0
 
-Check it online [here](https://gregarious-daffodil-42a50b.netlify.app/).
+Check it online [here](https://gregarious-daffodil-42a50b.netlify.app/) or scan the QR Code.
+![QR Code](./QRcode.png)
 
 [Front Editor](https://www.fronteditor.dev/)
 
@@ -12,3 +13,7 @@ Check it online [here](https://gregarious-daffodil-42a50b.netlify.app/).
 [VS Code](https://code.visualstudio.com/)
 
 [Netlify](https://www.netlify.com/)
+
+[QR Code Generator](https://www.qr-code-generator.com/)
+
+[Github Online Editor](https://github.dev/douglasdl/Maratona-Explorer-3) Change .com to .dev
