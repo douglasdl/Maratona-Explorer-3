@@ -1,5 +1,5 @@
-# Maratona-Explorer-3
-Maratona Explorer 3.0
+# Maratona Explorer 3.0
+Online foods and drinks menu.
 
 Check it online [here](https://gregarious-daffodil-42a50b.netlify.app/) or scan the QR Code.
 ![QR Code](./QRcode.png)
